@@ -1,7 +1,7 @@
 window.SubwayBuilderAPI.registerCity({
-    name: 'Winnipeg',
-    code: 'YWG',
-    description: 'Build transit for the Prairie metropolis',
+    name: 'DC Metro',
+    code: 'DMV',
+    description: 'OMG I am literally Nicole',
     population: 850000,
     initialViewState: {
         zoom: 13.5,
