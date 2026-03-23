@@ -1,0 +1,12 @@
+window.SubwayBuilderAPI.registerCity({
+    name: 'Winnipeg',
+    code: 'YWG',
+    description: 'Build transit for the Prairie metropolis',
+    population: 850000,
+    initialViewState: {
+        zoom: 13.5,
+        latitude: 49.871881,
+        longitude: -97.146345,
+        bearing: 0
+    }
+});
